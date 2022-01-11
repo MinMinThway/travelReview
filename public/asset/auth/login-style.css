@@ -1,0 +1,24 @@
+.login-container {
+    margin-top: 5%;
+    padding: 0% 10%;
+}
+.card-style {
+    height: 400px;
+}
+.img {
+    text-align: center;
+    width: 100%;
+    height: 300px;
+}
+
+.form-style {
+    border-top: none;
+    border-left: none;
+    border-right: none;
+}
+
+/* Register form */
+
+.register-card {
+    padding: 0% 24%;
+}

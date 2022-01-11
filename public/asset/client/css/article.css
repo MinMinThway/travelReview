@@ -1,0 +1,44 @@
+.article-image {
+  width: 100%;
+  /* height: 400px; */
+}
+
+
+
+.date {
+  background-color: #ffd36a;
+  width: 100px;
+  height: 70px;
+  position: absolute;
+  bottom: 180px;
+  left: 20px;
+
+  border-bottom-right-radius: 70%;
+  margin-bottom: 10%;
+}
+
+.day {
+  display: inline-block;
+}
+
+.month {
+  display: inline-block;
+}
+
+.year {
+  display: inline-block;
+}
+
+.description {
+  color: #848688;
+  margin-top: 3%;
+}
+.description:hover {
+  color: black;
+}
+
+div.sticky {
+    position: -webkit-sticky;
+    position: sticky;
+    top: 120px;
+  }
